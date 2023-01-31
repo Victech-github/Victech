@@ -2,14 +2,14 @@
 
 <h2> Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com
-  - [osTicket: Post-Installation Configuration](https://github.com
-  - [osTicket: Ticket Lifecycle Examples](https://github.com
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com
-  - [Creating a Virtual Machine on Azure](https://github.com
-
+  - [Creating a Virtual Machine on Azure]
+  - [Configuring On-premises Active Directory within Azure VMs]
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation]
+  - [osTicket: Post-Installation Configuration]
+  - [osTicket: Ticket Lifecycle Examples]
+ 
 
 
 <!---
