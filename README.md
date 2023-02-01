@@ -6,9 +6,9 @@
   - [Creating a Virtual Machine on Azure](https://github.com/Victech-github/Victech/Virtualmachine)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Victech-github/Victech/activedirectory)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]
-  - [osTicket: Post-Installation Configuration]
-  - [osTicket: Ticket Lifecycle Examples]
+  - [osTicket: Prerequisites and Installation](https://github.com/Victech-github/Victech/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Victech-github/Victech/osTicket-post-installing)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Victech-github/Victech/ticket-lifecycle)
  
 
 
