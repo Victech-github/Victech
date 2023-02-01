@@ -3,8 +3,8 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine on Azure]
-  - [Configuring On-premises Active Directory within Azure VMs]
+  - [Creating a Virtual Machine on Azure](https://github.com/Victech-github/Victech/Virtualmachine)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Victech-github/Victech/activedirectory)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation]
   - [osTicket: Post-Installation Configuration]
