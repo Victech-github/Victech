@@ -18,4 +18,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p>
 <h2>Connect with me:</h2>
-      vg787155@gmail.com
+
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: linkedin.com/in/victor-gonzalaez-a6169956
